@@ -1,0 +1,15 @@
+index,ATOM.CSV_atom_id,ATOM.CSV_molecule_id,ATOM.CSV_element,ATOM.CSV_type,ATOM.CSV_charge,BOND.CSV_atom1_id,BOND.CSV_atom2_id,BOND.CSV_type,MOLECULE.CSV_molecule_id,MOLECULE.CSV_ind1,MOLECULE.CSV_inda,MOLECULE.CSV_logp,MOLECULE.CSV_lumo,MOLECULE.CSV_mutagenic
+ATOM.CSV_atom_id,,,,,,0.5843041079092581,0.9754751686082158,0,0,0,0,0,0,0
+ATOM.CSV_molecule_id,,,,,,0,0,0,1.0,0,0,0,0,0
+ATOM.CSV_element,,,,,,0,0,0,0,0,0,0,0,0
+ATOM.CSV_type,,,,,,0,0,0,0,0,0,0,0,0
+ATOM.CSV_charge,,,,,,0,0,0,0,0,0,0,0,0
+BOND.CSV_atom1_id,0,0,0,0,0,,,,0,0,0,0,0,0
+BOND.CSV_atom2_id,0,0,0,0,0,,,,0,0,0,0,0,0
+BOND.CSV_type,0,0,0,0,0,,,,0,0,0,0,0,0
+MOLECULE.CSV_molecule_id,0,1.0,0,0,0,0,0,0,,,,,,
+MOLECULE.CSV_ind1,0,0,0,0,0,0,0,0,,,,,,
+MOLECULE.CSV_inda,0,0,0,0,0,0,0,0,,,,,,
+MOLECULE.CSV_logp,0,0,0,0,0,0,0,0,,,,,,
+MOLECULE.CSV_lumo,0,0,0,0,0,0,0,0,,,,,,
+MOLECULE.CSV_mutagenic,0,0,0,0,0,0,0,0,,,,,,
